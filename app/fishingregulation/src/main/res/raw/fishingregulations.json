@@ -1,0 +1,1262 @@
+﻿[
+        {
+            "zoneId": "1",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "2",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "3",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "4",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "5",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "6",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "7",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "8",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "9",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "10",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "11",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "12",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "13",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "14",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "15",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "16",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "17",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "18",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "19",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "20",
+            "specie": "white sucker",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "1",
+            "specie": "rainbow trout",
+            "limitS": "N/A",
+            "limitC": "N/A",
+            "size": "N/A",
+            "openSeason": "N/A",
+            "closeSeason": "all year"
+        },
+        {
+            "zoneId": "2",
+            "specie": "rainbow trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "3",
+            "specie": "rainbow trout",
+            "limitS": "N/A",
+            "limitC": "N/A",
+            "size": "N/A",
+            "openSeason": "N/A",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "4",
+            "specie": "rainbow trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "5",
+            "specie": "rainbow trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "6",
+            "specie": "rainbow trout",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "7",
+            "specie": "rainbow trout",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "8",
+            "specie": "rainbow trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "9",
+            "specie": "rainbow trout",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "10",
+            "specie": "rainbow trout",
+            "limitS": "2",
+            "limitC": "1",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "11",
+            "specie": "rainbow trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "12",
+            "specie": "rainbow trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "No",
+            "openSeason": "Friday before fourth Saturday in April",
+            "closeSeason": "30-Sep"
+        },
+        {
+            "zoneId": "13",
+            "specie": "rainbow trout",
+            "limitS": "2",
+            "limitC": "1",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "14",
+            "specie": "rainbow trout",
+            "limitS": "2",
+            "limitC": "1",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "15",
+            "specie": "rainbow trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "16",
+            "specie": "rainbow trout",
+            "limitS": "2",
+            "limitC": "1",
+            "size": "No",
+            "openSeason": "fourth Saturday in April",
+            "closeSeason": "30-Sep"
+        },
+        {
+            "zoneId": "17",
+            "specie": "rainbow trout",
+            "limitS": "2",
+            "limitC": "1",
+            "size": "No",
+            "openSeason": "fourth Saturday in April",
+            "closeSeason": "30-Sep"
+        },
+        {
+            "zoneId": "18",
+            "specie": "rainbow trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "19",
+            "specie": "rainbow trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "20",
+            "specie": "rainbow trout",
+            "limitS": "2",
+            "limitC": "1",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "1",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "2",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "3",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "4",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "5",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "6",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "7",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "8",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "9",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "10",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "11",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "12",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "13",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "14",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "15",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "16",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "17",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "18",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "19",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "20",
+            "specie": " brown bullhead",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "1",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "2",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "3",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "4",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "5",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "6",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "7",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "8",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "9",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "10",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "11",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "12",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "13",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "14",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "15",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "16",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "17",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "18",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "19",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "20",
+            "specie": "goldeye",
+            "limitS": "No",
+            "limitC": "No",
+            "size": "No",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "1",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "S: not more than two greater than 61 centimetres, of which not more than one greater than 86 centimetres, and C-2; not more than one greater than 61 centimetres, none greater than 86 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "2",
+            "specie": "northern pike",
+            "limitS": "4",
+            "limitC": "2",
+            "size": "none between 70 centimetres to 90 centimetres, not more than one greater than 90 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "3",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "S-6; not more than two greater than 61 centimetres, of which not more than one greater than 86 centimetres, and C-2; not more than one greater than 61 centimetres, none greater than 86 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "4",
+            "specie": "northern pike",
+            "limitS": "4",
+            "limitC": "2",
+            "size": "none between 70-90 centimetres, not more than one greater than 90 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "5",
+            "specie": "northern pike",
+            "limitS": "4",
+            "limitC": "2",
+            "size": "none greater than 75 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "6",
+            "specie": "northern pike",
+            "limitS": "4",
+            "limitC": "2",
+            "size": "not more than one greater than or equal to 70 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "7",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "S-6; not more than two greater than 61 centimetres, of which not more than one greater than 86 centimetres, and C-2; not more than one greater than 61 centimetres, none greater than 86 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "8",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "S-6; not more than two greater than 61 centimetres, of which not more than one greater than 86 centimetres, and C-2; not more than one greater than 61 centimetres, none greater than 86 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "9",
+            "specie": "northern pike",
+            "limitS": "4",
+            "limitC": "2",
+            "size": "none between 70-90 centimetres, not more than 1 greater than 90 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "10",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "S-6; not more than two greater than 61 centimetres, of which not more than one is greater than 86 centimetres, and C-2; not more than one greater than 61 centimetres, none greater than 86 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "11",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "S-6; not more than two greater than 61 centimetres, of which not more than one is greater than 86 centimetres and C-2; not more than one greater than 61 centimetres, none greater than 86 centimetres",
+            "openSeason": " January 1",
+            "closeSeason": " to third Sunday in March and third"
+        },
+        {
+            "zoneId": "12",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "1st open:January 1  2nd open: Friday before third Saturday in May",
+            "closeSeason": "1st close: to March 31; 2nd close:  to December 31"
+        },
+        {
+            "zoneId": "13",
+            "specie": "northern pike",
+            "limitS": "4",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "14",
+            "specie": "northern pike",
+            "limitS": "2",
+            "limitC": "1",
+            "size": "S-2; in one day, possession limit of four, not more than one greater than 86 centimetres, and C-1; in one day, possession limit of two, not more than one greater than 86 centimetres",
+            "openSeason": "January 1 to March 1 and May 1",
+            "closeSeason": " to December 31"
+        },
+        {
+            "zoneId": "15",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "1st open: January 1; 2nd open: third Saturday in May ",
+            "closeSeason": "1st close: to March 31; 2nd close:to December 31"
+        },
+        {
+            "zoneId": "16",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "1st open: January 1; 2nd open: second Saturday in May ",
+            "closeSeason": "1st close: to March 31; 2nd close: to December 31"
+        },
+        {
+            "zoneId": "17",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "18",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "1st open: January 1;  2nd open: second Saturday in May",
+            "closeSeason": "1st close: to March 31; 2nd close:  to December 31"
+        },
+        {
+            "zoneId": "19",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "must be greater than 112 centimetres",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "20",
+            "specie": "northern pike",
+            "limitS": "6",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "1st open: January 1 2nd open: first Saturday in May",
+            "closeSeason": "1st close:to March 31 ; 2nd close: to December 31"
+        },
+        {
+            "zoneId": "1",
+            "specie": "muskellunge",
+            "limitS": "N/A",
+            "limitC": "N/A",
+            "size": "N/A",
+            "openSeason": "N/A",
+            "closeSeason": "all year"
+        },
+        {
+            "zoneId": "2",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 91 centimetres ",
+            "openSeason": "third Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "3",
+            "specie": "muskellunge",
+            "limitS": "N/A",
+            "limitC": "N/A",
+            "size": "N/A",
+            "openSeason": "N/A",
+            "closeSeason": "all year"
+        },
+        {
+            "zoneId": "4",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 102 centimetres",
+            "openSeason": "third Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "5",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 102 centimetres ",
+            "openSeason": "third Saturday in June ",
+            "closeSeason": "to December 15"
+        },
+        {
+            "zoneId": "6",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 91 centimetres",
+            "openSeason": "third Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "7",
+            "specie": "muskellunge",
+            "limitS": "N/A",
+            "limitC": "N/A",
+            "size": "N/A",
+            "openSeason": "N/A",
+            "closeSeason": "all year"
+        },
+        {
+            "zoneId": "8",
+            "specie": "muskellunge",
+            "limitS": "N/A",
+            "limitC": "N/A",
+            "size": "N/A",
+            "openSeason": "N/A",
+            "closeSeason": "all year"
+        },
+        {
+            "zoneId": "9",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 91 centimetres",
+            "openSeason": "third Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "10",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 122 centimetres",
+            "openSeason": " third Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "11",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 122 centimetres",
+            "openSeason": "third Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "12",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 137 centimetres",
+            "openSeason": "Friday before third Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "13",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 102 centimetres",
+            "openSeason": "third Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "14",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 137 centimetres",
+            "openSeason": "third Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "15",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": " must be greater than 91 centimetres",
+            "openSeason": "1st Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "16",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 91 centimetres",
+            "openSeason": "first Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "17",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 112 centimetres",
+            "openSeason": "1st Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "18",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 91 centimetres",
+            "openSeason": "1st Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "19",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 112 centimetres",
+            "openSeason": "first Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "20",
+            "specie": "muskellunge",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 137 centimetres",
+            "openSeason": "third Saturday in June",
+            "closeSeason": " to December 15"
+        },
+        {
+            "zoneId": "1",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "not more than one greater than 40 centimetres",
+            "openSeason": " January 1",
+            "closeSeason": " to September 30"
+        },
+        {
+            "zoneId": "2",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "not more than one greater than 30 centimetres",
+            "openSeason": " January 1",
+            "closeSeason": " to Labour Day"
+        },
+        {
+            "zoneId": "3",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": " January 1",
+            "closeSeason": " to September 15"
+        },
+        {
+            "zoneId": "4",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "not more than one greater than 30 centimetres",
+            "openSeason": " January 1",
+            "closeSeason": " to Labour Day"
+        },
+        {
+            "zoneId": "5",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "6",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "not more than one greater than 30 centimetres",
+            "openSeason": "fourth Saturday in April ",
+            "closeSeason": "to Labour Day"
+        },
+        {
+            "zoneId": "7",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "S-5; not more than 2 greater than 30 centimetres, of which not more than one greater than 40 centimetres, and C-2; not more than one greater than 30 centimetres, of which none greater than 40 centimetres",
+            "openSeason": " January 1",
+            "closeSeason": " to Labour Day"
+        },
+        {
+            "zoneId": "8",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "1-Jan",
+            "closeSeason": "to September 15"
+        },
+        {
+            "zoneId": "9",
+            "specie": "brook trout",
+            "limitS": "1",
+            "limitC": "0",
+            "size": "must be greater than 56 centimetres",
+            "openSeason": " fourth Saturday in April",
+            "closeSeason": " to Labour Day"
+        },
+        {
+            "zoneId": "10",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": " January 1",
+            "closeSeason": " to September 30"
+        },
+        {
+            "zoneId": "11",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": " S-5; not more than one greater than 31 centimetres, and C-2; none greater than 31 centimetres",
+            "openSeason": "15-Feb",
+            "closeSeason": " to September 30"
+        },
+        {
+            "zoneId": "12",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "Friday before fourth Saturday in April",
+            "closeSeason": " to September 30"
+        },
+        {
+            "zoneId": "13",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "14",
+            "specie": "brook trout",
+            "limitS": "N/A",
+            "limitC": "N/A",
+            "size": "N/A",
+            "openSeason": "N/A",
+            "closeSeason": "all year"
+        },
+        {
+            "zoneId": "15",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "1-Jan",
+            "closeSeason": "to September 30"
+        },
+        {
+            "zoneId": "16",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "fourth Saturday in April",
+            "closeSeason": " to September 30"
+        },
+        {
+            "zoneId": "17",
+            "specie": "brook trout",
+            "limitS": "2",
+            "limitC": "1",
+            "size": "N/A",
+            "openSeason": "fourth Saturday in April",
+            "closeSeason": " to September 30"
+        },
+        {
+            "zoneId": "18",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "19",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        },
+        {
+            "zoneId": "20",
+            "specie": "brook trout",
+            "limitS": "5",
+            "limitC": "2",
+            "size": "N/A",
+            "openSeason": "all year",
+            "closeSeason": "N/A"
+        }
+  ]

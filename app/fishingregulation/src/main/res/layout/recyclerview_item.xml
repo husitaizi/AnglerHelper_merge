@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <data>
+        <variable
+            name="fishingRegulation"
+            type="com.sheridan.stn991602827.fishingregulation.data.FishingRegulation" />
+        <variable
+            name="viewModel"
+            type="com.sheridan.stn991602827.fishingregulation.data.FishingRegulationViewModel" />
+    </data>
+
+<com.google.android.material.card.MaterialCardView
+    android:id="@+id/card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Media -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="194dp"
+            app:srcCompat="@drawable/shortnose_cisco"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/shortnose_cisco"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Title, secondary and supporting text -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text='@{fishingRegulation.specie+"  zone: "+Integer.toString(fishingRegulation.zoneId)}'
+                android:textStyle=""
+                android:textAppearance="?attr/textAppearanceHeadline6"
+                />
+            <com.google.android.material.divider.MaterialDivider
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+                app:dividerThickness="2dp"
+                app:dividerColor="@color/design_default_color_primary_dark"
+           />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="Size: "
+                android:textAppearance="?attr/textAppearanceBody2"
+                android:textColor="?android:attr/textColorSecondary"
+                />
+            <com.google.android.material.textfield.TextInputEditText
+                style="@style/Widget.AppCompat.TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:text='@{fishingRegulation.size}'
+                tools:text="5 inches" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="LimitS"
+                android:textAppearance="?attr/textAppearanceBody2"
+                android:textColor="?android:attr/textColorSecondary"
+                />
+            <com.google.android.material.textfield.TextInputEditText
+                style="@style/Widget.Inventory.TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:text='@{fishingRegulation.limitS}'
+                tools:text="5 no more than 5 inches" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="LimitC"
+                android:textAppearance="?attr/textAppearanceBody2"
+                android:textColor="?android:attr/textColorSecondary"
+                />
+            <com.google.android.material.textfield.TextInputEditText
+                style="@style/Widget.Inventory.TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:text='@{fishingRegulation.limitC}'
+                tools:text="2 less than 5 inches"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="OpenSeason:"
+                android:textAppearance="?attr/textAppearanceBody2"
+                android:textColor="?android:attr/textColorSecondary"
+                />
+            <com.google.android.material.textfield.TextInputEditText
+                style="@style/Widget.Inventory.TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:text='@{fishingRegulation.openSeason}'
+                tools:text="first Friday in May" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="CloseSeason:"
+                android:textAppearance="?attr/textAppearanceBody2"
+                android:textColor="?android:attr/textColorSecondary"
+                />
+            <com.google.android.material.textfield.TextInputEditText
+                style="@style/Widget.Inventory.TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:text='@{fishingRegulation.closeSeason}'
+                tools:text="last Sunday in November" />
+
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:dividerThickness="5dp"
+        />
+
+</com.google.android.material.card.MaterialCardView>
+</layout>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/list"
+        android:name="com.example.test.ItemFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        app:layoutManager="LinearLayoutManager"
+        tools:context=".ItemListFragment"
+        tools:listitem="@layout/item_fragment">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.5"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:id="@+id/zoneId"
+                    android:text="@string/zoneId"
+                    style="@style/Widget.Inventory.Header"
+                    android:layout_marginStart="@dimen/margin_between_elements"
+                    android:layout_marginTop="24dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_weight="2" />
+                <!--        app:layout_constraintEnd_toStartOf="@+id/specie"-->
+                <TextView
+                    android:id="@+id/specie"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    style="@style/Widget.Inventory.Header"
+                    android:layout_marginStart="@dimen/margin_between_elements"
+                    android:layout_marginTop="20dp"
+                    android:text="@string/specie"
+                    app:layout_constraintStart_toStartOf="@+id/zoneId"
+                    app:layout_constraintTop_toBottomOf="@+id/zoneId"
+                    app:layout_constraintVertical_weight="2" />
+
+                <TextView
+                    android:id="@+id/size"
+                    android:text="@string/size"
+                    android:layout_weight="2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    style="@style/Widget.Inventory.Header"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="@dimen/margin_between_elements"
+                    app:layout_constraintStart_toStartOf="@+id/specie"
+                    app:layout_constraintTop_toBottomOf="@+id/specie"
+                    app:layout_constraintVertical_weight="2" />
+
+                <TextView
+                    android:id="@+id/limitS"
+                    android:layout_weight="2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    style="@style/Widget.Inventory.Header"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="@dimen/margin_between_elements"
+                    android:text="@string/limitS"
+                    app:layout_constraintStart_toStartOf="@+id/size"
+                    app:layout_constraintTop_toBottomOf="@+id/size"
+                    app:layout_constraintVertical_weight="2" />
+
+                <TextView
+                    android:id="@+id/limitC"
+                    android:layout_weight="2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    style="@style/Widget.Inventory.Header"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="@dimen/margin_between_elements"
+                    android:text="@string/limitC"
+                    app:layout_constraintStart_toStartOf="@+id/limitS"
+                    app:layout_constraintTop_toBottomOf="@+id/limitS"
+                    app:layout_constraintVertical_weight="2" />
+
+                <TextView
+                    android:id="@+id/openSeason"
+                    android:layout_weight="2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    style="@style/Widget.Inventory.Header"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="@dimen/margin_between_elements"
+                    android:text="@string/openSeason"
+                    app:layout_constraintStart_toStartOf="@+id/limitC"
+                    app:layout_constraintTop_toBottomOf="@+id/limitC"
+                    app:layout_constraintVertical_weight="2" />
+
+                <TextView
+                    android:id="@+id/closeSeason"
+                    android:layout_weight="2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    style="@style/Widget.Inventory.Header"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="@dimen/margin_between_elements"
+                    android:text="@string/closeSeason"
+                    app:layout_constraintStart_toStartOf="@+id/openSeason"
+                    app:layout_constraintTop_toBottomOf="@+id/openSeason"
+                    app:layout_constraintVertical_weight="2" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:background="@android:color/darker_gray" />
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="3"
+                android:layout_height="match_parent">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scrollbars="vertical"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="1.0"
+                    app:layout_constraintStart_toStartOf="parent" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
