@@ -6,6 +6,9 @@
 
     <data>
         <variable
+            name="drawable"
+            type="android.graphics.drawable.Drawable" />
+        <variable
             name="fishingRegulation"
             type="com.sheridan.stn991602827.fishingregulation.data.FishingRegulation" />
         <variable
@@ -24,13 +27,15 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
+<!--        android:src='@{"@drawable/"+fishingRegulation.specie}'-->
         <!-- Media -->
         <ImageView
+            android:id="@+id/fish_image"
             android:layout_width="match_parent"
             android:layout_height="194dp"
-            app:srcCompat="@drawable/shortnose_cisco"
-            android:scaleType="centerCrop"
-            android:contentDescription="@string/shortnose_cisco"
+            android:src="@drawable/shortnose_cisco"
+            android:scaleType="fitXY"
+            android:contentDescription="@{fishingRegulation.specie}"
             />
 
         <LinearLayout

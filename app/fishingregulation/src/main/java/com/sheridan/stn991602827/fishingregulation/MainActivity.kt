@@ -1,6 +1,8 @@
 package com.sheridan.stn991602827.fishingregulation
 
+import android.graphics.drawable.Drawable
 import android.os.Bundle
+import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.sheridan.stn991602827.fishingregulation.data.FishingListAdaptor
@@ -26,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         var zoneId = 2
         var list = fishingRegulationViewModel.allZoneRegulations(zoneId)
 
+
         val adaptor = FishingListAdaptor()
 
         binding.recyclerView.layoutManager = LinearLayoutManager(this)
@@ -36,6 +39,10 @@ class MainActivity : AppCompatActivity() {
                 adaptor.submitList(it)
             }
         }
+
+
+
+
 
 
 /*
